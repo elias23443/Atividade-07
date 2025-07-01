@@ -1,4 +1,4 @@
-/* Estilo geral da página */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f0f4fc;
@@ -7,7 +7,7 @@ body {
   color: #333;
 }
 
-/* Cabeçalho */
+
 header {
   background-color: #3a7bd5;
   color: white;
@@ -24,7 +24,7 @@ header p {
   margin: 5px 0 0;
 }
 
-/* Seções principais */
+
 main {
   padding: 20px;
   display: flex;
@@ -54,7 +54,7 @@ section h2 {
   font-size: 1.5em;
 }
 
-/* Rodapé */
+
 footer {
   text-align: center;
   padding: 10px;
